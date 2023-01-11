@@ -1,9 +1,9 @@
 # MN-MD
-These are for two color fiber photometry analysis for MN to MD projection during transition from SWS to wake
+These are data and original codes for two color fiber photometry for MN to MD projection during transition from SWS to wake
 
 # Code author
 Wooyeon Shin
 
 Please cite as:
 
-, "A brainstem-to-mediodorsal thalamic pathway mediates arousal from slow-wave sleep." Current Biology (2023).
+Anna Shin, Seahyung Park, Wooyeon Shin, Jeonghoon Woo, Minju Jeong, Jeongjin Kim, and Daesoo Kim, "A brainstem-to-mediodorsal thalamic pathway mediates arousal from slow-wave sleep." Current Biology (2023).
